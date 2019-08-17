@@ -1,0 +1,15 @@
+$link-bg: #F2F5F5;
+$link-active: #F1F1F4;
+.side-link {
+	padding: 5px 10px;
+	
+}
+.side-link:hover {
+	background-color: $link-bg;
+}
+.side-link:active {
+	background-color: $link-active;
+}
+.side-link.active {
+	background-color: $link-active;
+}
