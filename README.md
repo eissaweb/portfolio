@@ -24,6 +24,9 @@ npm run test
 ```
 npm run lint
 ```
-
+### Then
+```
+Happy Coding
+```
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
